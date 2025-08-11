@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "userName": "admin",
+    "userType": "admin",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMye", 
+    "email": "admin@school.com",
+    "language": "English",
+    "address": "123 Admin Street, City, State 12345",
+    "standard": null,
+    "subjects": []
+  },
+  {
+    "id": 2,
+    "userName": "Pavan Prasad",
+    "userType": "student",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "email": "pavan.prasad@school.com",
+    "language": "English",
+    "address": "456 Student Lane, City, State 12345",
+    "standard": "10th",
+    "subjects": ["Mathematics", "Science", "History", "English"]
+  },
+  {
+    "id": 3,
+    "userName": "Kundan Chaudhary",
+    "userType": "student",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "email": "kundan.chaudhary@school.com",
+    "language": "English",
+    "address": "789 Learning Ave, City, State 12345",
+    "standard": "9th",
+    "subjects": ["Mathematics", "Science", "Geography", "Art"]
+  },
+  {
+    "id": 4,
+    "userName": "Shubham Prajapati",
+    "userType": "student",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "email": "shubham.prajapati@school.com",
+    "language": "German",
+    "address": "321 Education Blvd, City, State 12345",
+    "standard": "8th",
+    "subjects": ["Mathematics", "Science", "German", "Music"]
+  },
+  {
+    "id": 5,
+    "userName": "Rohit Sharma",
+    "userType": "student",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "email": "rohit.sharma@school.com",
+    "language": "English",
+    "address": "654 Knowledge St, City, State 12345",
+    "standard": "7th",
+    "subjects": ["Mathematics", "History", "English", "Physical Education"]
+  },
+  {
+    "id": 6,
+    "userName": "Kuldeep Prajapati",
+    "userType": "student",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "email": "kuldeep.prajapati@school.com",
+    "language": "English",
+    "address": "987 Study Road, City, State 12345",
+    "standard": "6th",
+    "subjects": ["Mathematics", "Science", "English", "Art"]
+  },
+  {
+    "id": 7,
+    "userName": "Arjun Devendra",
+    "userType": "student",
+    "password": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "email": "arjun.devendra@school.com",
+    "language": "German",
+    "address": "147 Academic Way, City, State 12345",
+    "standard": "10th",
+    "subjects": ["Mathematics", "Science", "German", "History"]
+  }
+]
